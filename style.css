@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url("imgg.jpg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
